@@ -1,3 +1,5 @@
+#----------1-st task----------
+
 def sort(array):
     for i in range(len(array) - 1):
         minimum = i
