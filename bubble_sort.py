@@ -1,3 +1,4 @@
+#----------2-nd task----------
 def sort(array):
     i = 0
     tof = None
